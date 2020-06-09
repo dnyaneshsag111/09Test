@@ -1,0 +1,4 @@
+[core]
+    remote = 09myremote1
+['remote "09myremote1"']
+    url = D:/dvc/Remote09/
